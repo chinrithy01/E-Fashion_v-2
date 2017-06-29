@@ -1,0 +1,8 @@
+﻿/* CSS Document */
+
+/* wrap */
+.wrap{display:block;width:100%;height:auto;margin:0;padding:0;}
+
+/* header_top */
+.header_top{display:block;height:35px;margin:0;padding:0;background-color:#ff0000;}
+.header_top .header_top_inner{display:block;max-width:1200px;margin:0;padding:0;}
